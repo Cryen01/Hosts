@@ -1,4 +1,6 @@
 mailhub.minaffet.gov.rw
+googleads.g.doubleclick.net
+www.googleads.g.doubleclick.net
 mailonline-d.openx.net
 mails.cneic.com.cn
 mailscan3.cau.ctm.net
