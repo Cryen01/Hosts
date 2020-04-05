@@ -2,6 +2,8 @@ mailhub.minaffet.gov.rw
 googleads.g.doubleclick.net
 www.googleads.g.doubleclick.net
 mailonline-d.openx.net
+app.adjust.com
+www.app.adjust.com
 mails.cneic.com.cn
 mailscan3.cau.ctm.net
 mailsee.liffeytas.com.au
