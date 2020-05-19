@@ -14106,7 +14106,6 @@ r1---sn-4g5e6nle.googlevideo.com
 r1---sn-4g5e6nlk.googlevideo.com
 r1---sn-4g5e6nls.googlevideo.com
 r1---sn-4g5e6ns6.googlevideo.com
-r1---sn-4g5e6ns7.googlevideo.com
 r1---sn-4g5e6nsd.googlevideo.com
 r1---sn-4g5e6nsk.googlevideo.com
 r1---sn-4g5e6nsr.googlevideo.com
@@ -14121,7 +14120,6 @@ r1---sn-4g5e6nzz.googlevideo.com
 r1---sn-4g5edn7e.googlevideo.com
 r1---sn-4g5edn7l.googlevideo.com
 r1---sn-4g5edn7s.googlevideo.com
-r1---sn-4g5edn7y.googlevideo.com
 r1---sn-4g5edn7z.googlevideo.com
 r1---sn-4g5edne6.googlevideo.com
 r1---sn-4g5edne7.googlevideo.com
