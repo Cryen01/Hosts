@@ -1,5 +1,9 @@
 ma1310-r.analytics.edgekey.net
 ma140-r.analytics.edgekey.net
+eso.clan-oberon.de
+forum.masteroforion.eu
+www.eso.clan-oberon.de
+www.forum.masteroforion.eu
 ma156-r.analytics.edgekey.net
 ma156-r.analytics.edgesuite.net
 ma193-r.analytics.edgekey.net
