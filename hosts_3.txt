@@ -32,8 +32,6 @@ static-rtb.waardex.com
 www.static-rtb.waardex.com/
 tzarsectus.com
 www.tzarsectus.com
-github-production-release-asset-2e65be.s3.amazonaws.com
-www.github-production-release-asset-2e65be.s3.amazonaws.com
 img.wennermedia.com
 www.img.wennermedia.com
 free-animations.co.uk
